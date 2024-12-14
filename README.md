@@ -3,6 +3,12 @@
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 ![Join Python](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/raw/main/image/python-intro.png "Join Python")
 
+## 🧑‍🌾 Lecturer: Teerapong Panboonyuen (Kao), Ph.D.  
+
+📧 **Contact**:  
+- [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th)  
+- [panboonyuen.kao@gmail.com](mailto:panboonyuen.kao@gmail.com)
+
 ## Short links for Google Colab: 
 [Google Colab](https://colab.research.google.com/)
 
