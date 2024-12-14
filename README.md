@@ -17,7 +17,7 @@
 - 🥬 **Code**: [Basic Python Part I (Student Version)](https://colab.research.google.com/github/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/code/CP020001_BasicPython_Basic_Python_Part_I_toStudent.ipynb)
 - 🙋‍♂️ **Assignment**: [Basic Python Part I Assignment](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-BasicPython-Basic-Python-Part-I.pdf)
 
-**Updated Python codes and notebooks will be posted here shortly before each lecture.**
+✨ **Stay updated!** Python codes will be shared here regularly before each lecture. Let's get coding! 🚀
 
 ### Reference Materials:
 
