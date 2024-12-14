@@ -1,7 +1,6 @@
 # 🍄 CP020001 Computer Programming at Khon Kaen University 2024s2
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
-![Join Python](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/raw/main/image/python-intro.png "Join Python")
 
 ## 🧑‍🌾 Lecturer: Teerapong Panboonyuen (Kao), Ph.D.  
 
