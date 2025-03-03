@@ -17,11 +17,15 @@
 - 🥬 **Code**: [Basic Python Part I (Student Version)](https://colab.research.google.com/github/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/code/CP020001_BasicPython_Basic_Python_Part_I_toStudent.ipynb)
 - 🙋‍♂️ **Assignment**: [Basic Python Part I Assignment](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-BasicPython-Basic-Python-Part-I.pdf)
 
-### Week 2 - Basic Pandas with Thai Politicians Lab
+### Week 2 - Introduction to Basic Data Engineering (Part I: Pandas)
 
-- 🐳 **Slide**: [Basic Pandas with Thai Politicians Lab](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/slides/CP020001-BasicPandas-Part-I.pdf)
-- 🥬 **Code**: [Basic Pandas with Thai Politicians (Student Version)](https://colab.research.google.com/github/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/code/CCP020001_BasicDataEngineering_Part_I_toStudent.ipynb)
+- 🐳 **Slide**: [Basic Data Engineering (Part I: Pandas)](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/slides/CP020001-BasicPandas-Part-I.pdf)
+- 🥬 **Code**: [Basic Data Engineering (Part I: Pandas - Student Version)](https://colab.research.google.com/github/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/code/CCP020001_BasicDataEngineering_Part_I_toStudent.ipynb)
 - 🙋‍♂️ **Assignment**: [Basic Pandas with Thai Politicians Assignment](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-BasicPandas-Thai-Politicians.pdf)
+
+- 🎮 **Homework**: [Pokemon Data Homework](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-Pokemon-Data-Homework.pdf)
+
+![](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/raw/main/img/pokemon_sleep.png)
 
 📚 This lab uses a mockup dataset created solely for academic purposes. The data does not represent real Thai politicians. 🗳️ Any resemblance to actual individuals or political figures is purely coincidental. This dataset is meant for learning and practice with Python and Pandas only, and should not be used for any real-world or official representations. 🚫
 
