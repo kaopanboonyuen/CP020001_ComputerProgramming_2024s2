@@ -21,7 +21,7 @@
 
 - 🐳 **Slide**: [Basic Data Engineering (Part I: Pandas)](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/slides/CP020001-BasicPandas-Part-I.pdf)
 - 🥬 **Code**: [Basic Data Engineering (Part I: Pandas - Student Version)](https://colab.research.google.com/github/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/code/CCP020001_BasicDataEngineering_Part_I_toStudent.ipynb)
-- 🙋‍♂️ **Assignment**: [Basic Pandas with Thai Politicians Assignment](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-BasicPandas-Thai-Politicians.pdf)
+- 🙋‍♂️ **Lab**: [Basic Pandas with Thai Politicians Assignment](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-BasicPandas-Thai-Politicians.pdf)
 
 - 🎮 **Homework**: [Pokemon Data Homework](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-Pokemon-Data-Homework.pdf)
 
